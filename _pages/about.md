@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 I am a 3rd year PhD student in Grenoble-Alpes University.
 I develop new methods for imputation of missing data in high-dimensional proteomics datasets, with transcriptomics integration.
 I also collaborate on a project for proteomic biomarkor discovery, led by David Pérez, a PhD student from [EDyP Lab](http://www.edyp.fr/web/).
