@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+<p style="margin-left: 40px"><b>Ph.D on "Inferring the 3D structure of the
+genome"</b>
+<br>École des Mines, Paris
+<br><i>October 2012 - December 2015</i></p>
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<p style="margin-left: 40px"><b>CNRS Researcher</b>
+<br><a href="https://tree-timc.github.io/compbio/">CompBio@TrEE</a>, TrEE, TIMC, Grenoble
+<br>CNRS, Université Grenoble Alpes
+<br><i>October 2019 — present</i></p>
+
+
+<p style="margin-left: 40px"><b>Moore-Sloan Data Science Fellow</b>
+<br>Berkeley Institute for Data Science
+<br>University of California, Berkeley
+<br><i>August 2016 — December 2018</i></p>
+
+<p style="margin-left: 40px"><b>Postdoctoral Scholar</b>
+<br>Department of Statistics
+<br>University of California, Berkeley
+<br><i>June 2016 — June 2019</i></p>
+
+<p style="margin-left: 40px"><b>Postdoctoral Scholar</b>
+<br>CBIO
+<br>Armines
+<br><i>January 2016 — June 2016</i></p>
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% endfor %} 
