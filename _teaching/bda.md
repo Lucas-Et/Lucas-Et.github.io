@@ -2,7 +2,7 @@
 layout: page
 title: "Bases de l'Analyse"
 subtitle: "L1PCMM, Université Grenoble-Alpes"
-permalink: /teaching/hpcai
+permalink: /teaching/bda
 ---
 
 Tutorial classes (36 hours). Course made by Eric Blayo.
