@@ -1,11 +1,14 @@
 ---
-layout: page
 title: "Bases de l'Analyse"
-subtitle: "L1PCMM, Université Grenoble-Alpes"
+collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/bda
+venue: "Université Grenoble-Alpes, L1 PCMM"
+date: 2021
+location: "Grenoble, France"
 ---
 
-Tutorial classes (36 hours). Course made by Eric Blayo.
+Tutorial classes (36 hours). Lecture course made by Eric Blayo.
 Basis of analysis, including study of functions, limits, Taylor expansions, and differential equations.
 
 

@@ -1,11 +1,14 @@
 ---
-layout: page
 title: "Principes et Méthodes Statistiques (2022)"
-subtitle: "Grenoble INP - Ensimag, 1A"
-permalink: /teaching/PMS
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/pms
+venue: "Grenoble INP - Ensimag"
+date: 2022
+location: "Grenoble, France"
 ---
 
-Tutorial classes (19 hours). Course made by Olivier Gaudoin.
-It contains fundamental of inferential statistics, from histogram generation and graph of probability, to test hypothesis building, and linear regression.
+Tutorial classes (19 hours). Lecture course made by Olivier Gaudoin.
+This course contains fundamentals of inferential statistics, from histograms and graph of probability, to confidence intervals, test hypothesis building, and linear regression.
 
 
