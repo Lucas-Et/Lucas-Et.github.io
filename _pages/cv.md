@@ -12,34 +12,21 @@ redirect_from:
 Education
 ======
 
-<p style="margin-left: 40px"><b>Ph.D on "Inferring the 3D structure of the
-genome"</b>
-<br>École des Mines, Paris
-<br><i>October 2012 - December 2015</i></p>
+<p style="margin-left: 40px"><b>Ph.D on "Imputation of Missing Not at Random values in proteomics with transcriptomics integration"</b>
+<br>Université Grenoble-Alpes, Grenoble
+<br><i>Since November 2020</i></p>
+
+<p style="margin-left: 40px"><b>MSc in Industrial and Applied Mathematics</b>
+<br>Grenoble INP - Ensimag, Université Grenoble-Alpes, Grenoble
+<br><i>2020</i></p>
 
 Work experience
 ======
 
-<p style="margin-left: 40px"><b>CNRS Researcher</b>
-<br><a href="https://tree-timc.github.io/compbio/">CompBio@TrEE</a>, TrEE, TIMC, Grenoble
-<br>CNRS, Université Grenoble Alpes
-<br><i>October 2019 — present</i></p>
-
-
-<p style="margin-left: 40px"><b>Moore-Sloan Data Science Fellow</b>
-<br>Berkeley Institute for Data Science
-<br>University of California, Berkeley
-<br><i>August 2016 — December 2018</i></p>
-
-<p style="margin-left: 40px"><b>Postdoctoral Scholar</b>
-<br>Department of Statistics
-<br>University of California, Berkeley
-<br><i>June 2016 — June 2019</i></p>
-
-<p style="margin-left: 40px"><b>Postdoctoral Scholar</b>
-<br>CBIO
-<br>Armines
-<br><i>January 2016 — June 2016</i></p>
+<p style="margin-left: 40px"><b>Master Internship</b>
+<br>GE Healthcare (Buc)
+<br>Automated labelling of prostate arteries 3D network with Deep Learning.
+<br><i>February 2020 - August 2020</i></p>
 
 
 Publications
