@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/bda
 venue: "Université Grenoble-Alpes, L1 PCMM"
-date: 2021
+date: 2021-01-20
 location: "Grenoble, France"
 ---
 

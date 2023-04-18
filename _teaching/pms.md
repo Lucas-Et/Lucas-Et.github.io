@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/pms
 venue: "Grenoble INP - Ensimag"
-date: 2022
+date: 2022-01-23
 location: "Grenoble, France"
 ---
 
