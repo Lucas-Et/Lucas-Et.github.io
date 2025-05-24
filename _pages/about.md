@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student at Université Grenoble-Alpes since November 2020. 
-I am from southwest of France, did my undergraduate degree in Bordeaux (Prépa des INP), and then moved to Grenoble to study computer science and applied mathematics (Ensimag).
-Besides my research project, I enjoy what Grenoble has best to offer: snowboarding, hiking, beautiful mountain lakes, and a lots of sport, cultural and musical events!
-My thesis is supervised by [Thomas Burger](https://sites.google.com/site/thomasburgerswebpage) from [EDyP Lab](http://www.edyp.fr/web/) and [Nelle Varoquaux](https://nellev.github.io/) from TIMC, [TrEE@CompBio](https://tree-timc.github.io/compbio/) group.
+I am a postdoctoral researcher at UC Berkeley, Department of Statistics, in Elizabeth Purdom's Group since January 2025 and until January 2027. 
+Originally from the southwest of France (Saint-Michel-De-Double, Dordogne), I did a "classe préparatoire" in Bordeaux (La Prépa des INP), to then integrate an engineering school in Grenoble specialized in computer science and applied mathematics (Ensimag).
+Finally, I got my PhD at Université Grenoble-Alpes in statistical proteomics, supervised by [Thomas Burger](https://sites.google.com/site/thomasburgerswebpage) from [EDyP Lab](http://www.edyp.fr/web/) and [Nelle Varoquaux](https://nellev.github.io/) from TIMC, [TrEE@CompBio](https://tree-timc.github.io/compbio/) group.
+Besides my research, I explore what the Bay Area has the best to offer. I love plenty of different sports (football, volleyball ...) and outside activities (snowboard, rock climbing, sailing ...) as well as listening to electronic music and playing a bit of piano. 
 
+## My research journey
 
-## My research project
-
-I am developing new methods for missing data imputation in high-dimensional proteomics datasets, with transcriptomics integration.
-This project occupies most of my time, and has many challenging aspects. For example, missing values in proteomics are known to be Missing Not at Random. In this context, it means that the lower the values is, the likelier it is to be missing, which makes them even harder to infer. 
+During my PhD, I developed novel methods for the imputation of missing data in high-dimensional proteomics datasets, that can leverage transcriptomics data. 
+One of the challenges was that missing values in proteomics are often classified as Missing Not at Random (MNAR), meaning their likelihood of being missing depends on the unobserved data itself.
+In this context, it means that the lower the values is, the likelier it is to be missing, which makes them even harder to infer. 
 Also, the huge dimensionality of proteomics datasets really hampers multivariate approaches.
+I was also involved in an applied project that aimed at building a biomarker panel for disease severity prediction.
 
-I am also involved in a project on proteomic biomarker discovery, led by David Pérez, a PhD student from [EDyP Lab](http://www.edyp.fr/web/), and another project on absolute protein quantification with Mass Spectrometry.
-
-I am globally interested in machine learning, statistical tools and concepts that enable to extract knowledge from large omics datasets, and am looking for a Post-Doctoral position outside of France in this area.
+I am now focusing on new statistical methods for single-cell RNA sequencing datasets. 
+In particular, I am interested in differential expression analysis across multiple conditions in the setting where cell types are not defined, focusing on statistical correctness of such procedure as well as its interpretability.
+On top of that, I intervene in the analysis of experimental data, about neuronal cell differentiation in a joint project with the NIH.
 
 ## Commitment to diffusion of science
 
